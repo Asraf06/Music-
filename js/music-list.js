@@ -53,10 +53,22 @@ let allMusic = [
     src: "Trevor Daniel - Falling (Official Music Video)"
   },
   {
+    name: "Starboy the weeknd ft daft punk",
+    artist: "Weeknd",
+    img: "Starboy the weeknd ft daft punk",
+    src: "Starboy the weeknd ft daft punk"
+  },
+  {
     name: "Halsey - Without Me",
     artist: "Halsey",
     img: "music-1",
     src: "Halsey - Without Me"
+  },
+  {
+    name: "Akshath - Nadaaniyan (Official Video) Aisha Ahmed",
+    artist: "Akshath",
+    img: "Nadaaniyan",
+    src: "Akshath - Nadaaniyan (Official Video) Aisha Ahmed"
   },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
